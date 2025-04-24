@@ -40,7 +40,7 @@ class _MovieAppScreenState extends State<MovieAppScreen> {
         ),
         Text(
           movielist.getMovieText(),
-          style: TextStyle(color: Colors.white, fontSize: 25),
+          style: TextStyle(color: Colors.white, fontSize: 30),
         ),
 
         IconButton(
